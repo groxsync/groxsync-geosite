@@ -336,5 +336,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT_FOR_ROUTING }}
-          repository: groxsync/roscomvpn-routing
+          repository: groxsync/groxsync-routing
           event-type: update-routing-configs
