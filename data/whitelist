@@ -1,482 +1,467 @@
-# Direct for checkers
-
-domain:ipify.org
-domain:checkip.amazonaws.com
-domain:ifconfig.me
-
-domain:ipapi.is
-domain:iplocate.io
-domain:ip.sb
-
-domain:2ip.ru
-
-# Federal Gov.
-
+# Правительство России
 domain:government.ru
-domain:gov.ru
-domain:gosuslugi.ru
-domain:gu-st.ru
-domain:emias.info
-domain:mgfoms.ru
-domain:edu.ru
-domain:cbr.ru
-domain:cikrf.ru
-domain:ebs.ru
-domain:goskey.ru
-domain:grfc.ru
-domain:izbirkom.ru
 domain:kremlin.ru
-domain:mil.ru
-domain:nalog.ru
-domain:xn--80ajghhoc2aj1c8b.xn--p1ai
 
-# Regional Gov.
-
+# Госуслуги
+domain:gosuslugi.ru
+domain:gov.ru
 domain:mos.ru
-domain:mosreg.ru
-domain:spb.ru
-domain:sevastopol.ru
-domain:sev.ru
-domain:adygeya.ru
-domain:bashkiria.ru
-domain:buryatia.ru
-domain:chuvashia.ru
-domain:crimea.ru
-domain:dagestan.ru
-domain:grozny.ru
-domain:i-ola.ru
-domain:izhevsk.ru
-domain:kalmykia.ru
-domain:karelia.ru
-domain:kazan.ru
-domain:kchr.ru
-domain:khakassia.ru
-domain:mari-el.ru
-domain:mari.ru
-domain:mordovia.ru
-domain:nalchik.ru
-domain:ptz.ru
-domain:rkomi.ru
-domain:tatarstan.ru
-domain:tuva.ru
-domain:udm.ru
-domain:udmurtia.ru
-domain:ulan-ude.ru
-domain:vladikavkaz.ru
-domain:yakutia.ru
-domain:altai.ru
-domain:chita.ru
-domain:kamchatka.ru
-domain:khabarovsk.ru
-domain:khv.ru
-domain:krasnodar.su
-domain:krasnoyarsk.ru
-domain:kuban.ru
-domain:marine.ru
-domain:perm.ru
-domain:stavropol.ru
-domain:stv.ru
-domain:vl.ru
-domain:vladivostok.ru
-domain:amur.ru
-domain:arkhangelsk.ru
-domain:astrakhan.ru
-domain:belgorod.ru
-domain:bir.ru
-domain:bryansk.ru
-domain:cbg.ru
-domain:chel.ru
-domain:chelyabinsk.ru
-domain:ekburg.ru
-domain:xn--80acgfbsl1azdqr.xn--p1ai
-domain:irk.ru
-domain:irkutsk.ru
-domain:ivanovo.ru
-domain:jar.ru
-domain:kaluga.ru
-domain:kemerovo.ru
-domain:kirov.ru
-domain:koenig.ru
-domain:kostroma.ru
-domain:kurgan.ru
-domain:kursk.ru
-domain:lipetsk.ru
-domain:magadan.ru
-domain:murmansk.ru
-domain:nn.ru
-domain:nov.ru
-domain:novosibirsk.ru
-domain:nsk.ru
-domain:omsk.ru
-domain:orb.ru
-domain:oryol.ru
-domain:penza.ru
-domain:psk
-domain:psk.ru
-domain:pskov.ru
-domain:rnd.ru
-domain:ryazan.ru
-domain:sakhalin.ru
-domain:samara.ru
-domain:saratov.ru
-domain:simbirsk.ru
-domain:smolensk.ru
-domain:tambov.ru
-domain:tom.ru
-domain:tomsk.ru
-domain:tsaritsyn.ru
-domain:tsk.ru
-domain:tula.ru
-domain:tver.ru
-domain:tyumen.ru
-domain:vladimir.ru
-domain:vlg.ru
-domain:volgograd.ru
-domain:vologda.ru
-domain:voronezh.ru
-domain:vrn.ru
-domain:vyatka.ru
-domain:yaroslavl.ru
-domain:yuzhno-sakhalinsk.ru
-domain:chukotka.ru
-domain:jamal.ru
-domain:surgut.ru
-domain:yamal.ru
-domain:zdrav10.ru
+domain:ebs.ru
 
-# Unsorted custom from: https://github.com/kirilllavrov/RU-domain-list-for-whitelist + https://github.com/hxehex/russia-mobile-internet-whitelist/ + v2ray + custom by me
+# МВД
+domain:xn--b1aew.xn--p1ai # мвд.рф
+domain:mvd.ru
 
-domain:1c-bitrix.ru
-domain:1c.ru
-domain:1cfresh.com
-domain:1cloud.ru
-domain:1internet.tv
-domain:2gis.ae
-domain:2gis.am
-domain:2gis.az
-domain:2gis.by
-domain:2gis.com
-domain:2gis.com.cy
-domain:2gis.cz
-domain:2gis.ge
-domain:2gis.kg
-domain:2gis.kz
-domain:2gis.ru
-domain:2gis.tj
-domain:2gis.ua
-domain:2gis.uz
-domain:47news.ru
-domain:4meeting.me
-domain:5ka.ru
-domain:5post.market
-domain:abr.ru
-domain:aclub.ru
-domain:adfox.ru
-domain:admetrica.ru
-domain:aeroflot.ru
-domain:alfa-bank.com
-domain:alfa-bank.ru
-domain:alfa-finance.com
-domain:alfa-fx.com
-domain:alfa-pc.com
-domain:alfa-usa.com
-domain:alfabank.com
+# ФНС
+domain:nalog.ru
+
+# Почта России
+domain:pochta.ru
+
+# Национальная система платёжных карт
+domain:nspk.ru
+domain:nspk.com
+
+# Банк России
+domain:cbr.ru
+
+# Альфа-Банк
 domain:alfabank.ru
-domain:alfafinance.biz
-domain:alfafinance.ru
-domain:alfafuture.com
-domain:alfafuture.ru
-domain:alfafx.com
-domain:alfaleasing.ru
-domain:alfaprivate.com
-domain:alformacap.com
-domain:alformacapital.com
-domain:auth-nsdi.ru
-domain:auto.ru
-domain:av.ru
+
+# ВТБ
+domain:vtb.ru
+
+# ПСБ
+domain:psbank.ru
+
+# Газпромбанк
+domain:gazprombank.ru
+
+# Московская биржа
+domain:moex.com
+
+# Известия
+domain:iz.ru
+
+# ТАСС
+domain:tass.ru
+domain:tass.com
+
+# Газета.ru
+domain:gazeta.ru
+
+# Лента.ру
+domain:lenta.ru
+
+# РБК
+domain:rbc.ru
+
+# РИА Новости
+domain:ria.ru
+
+# Рамблер
+domain:rambler.ru
+
+# Аргументы и Факты
+domain:aif.ru
+
+# Российская газета
+domain:rg.ru
+
+# Ведомости
+domain:vedomosti.ru
+
+# Московский комсомолец
+domain:mk.ru
+
+# Коммерсант
+domain:kommersant.ru
+
+# Комсомольская правда
+domain:kp.ru
+
+# RT
+domain:rt.com
+
+# Sport24
+domain:sport24.ru
+
+# Первый канал
+domain:1tv.ru
+
+# НТВ
+domain:ntv.ru
+
+# ТНТ
+domain:tnt-online.ru
+
+# СТС
+domain:ctc.ru
+
+# Пятый канал
+domain:5-tv.ru
+
+# ТВ Центр
+domain:tvc.ru
+
+# ТВ3
+domain:tv3.ru
+
+# Матч ТВ
+domain:matchtv.ru
+
+# Спас
+domain:spastv.ru
+
+# ОТР
+domain:otr-online.ru
+
+# Пятница
+domain:friday.ru
+
+# Домашний
+domain:domashniy.ru
+
+# Муз-ТВ
+domain:muz-tv.ru
+
+# Мир
+domain:mirtv.ru
+
+# 360
+domain:360tv.ru
+
+# Дума ТВ
+domain:dumatv.ru
+
+# Вместе-РФ
+domain:vmeste-rf.tv
+
+# ВГТРК / Смотрим
+domain:smotrim.ru
+
+# Медси
+domain:medsi.ru
+
+# Мать и дитя
+domain:mamadeti.ru
+
+# ЕМИАС
+domain:emias.info
+
+# Аптека.ru
+domain:apteka.ru
+
+# Еаптека
+domain:eapteka.ru
+
+# Национальная система платежных карт
+domain:nspk.ru
+domain:nspk.com
+
+# Альфа-Банк
+domain:alfabank.ru
+
+# ВТБ
+domain:vtb.ru
+
+# ПСБ
+domain:psbank.ru
+
+# Газпромбанк
+domain:gazprombank.ru
+
+# Авито
 domain:avito.ru
 domain:avito.st
-domain:baltbank.ru
-domain:banka-ui.dev
-domain:banki.ru
-domain:bankline.ru
-domain:beeline.ru
-domain:beta-bank.com
-domain:bitrix24.ru
-domain:bronevik.com
-domain:cdn-tinkoff.ru
-domain:cdn-vk.ru
-domain:chizhik.club
-domain:citydrive.ru
-domain:clstorage.net
-domain:credistory.ru
-domain:csat.ru
-domain:cscampus.ru
-domain:dbo-dengi.online
-domain:dellin.ru
-domain:dixy.ru
-domain:dnevnik.ru
-domain:dns-shop.ru
-domain:dodopizza.ru
-domain:dom.ru
-domain:domclick.ru
-domain:donationalerts.com
-domain:drweb.ru
-domain:dzen.ru
-domain:dzeninfra.ru
-domain:e5.ru
-domain:edadeal.io
-domain:edadeal.ru
-domain:fastvps.ru
-domain:finuslugi.ru
-domain:fivepost.ru
-domain:fix-price.com
-domain:gazeta.ru
-domain:gazprombank.ru
-domain:gazprombank.tech
-domain:gazprompay.ru
-domain:gorodpay.ru
-domain:gpb.ru
-domain:gpmdi.ru
-domain:hh.ru
-domain:idx5.ru
-domain:imgsmail.ru
-domain:investalfabank.com
-domain:iz.ru
-domain:jivo.ru
-domain:jivochat.com
-domain:jivosite.com
-domain:jx5.ru
-domain:kaspersky.com
-domain:kaspersky.ru
-domain:kazanexpress.ru
-domain:kinopoisk-ru.clstorage.net
-domain:kinopoisk.ru
-domain:kommersant.ru
-domain:kp.ru
-domain:krasyar.ru
-domain:krd.ru
-domain:kuper.ru
-domain:lead-pro2023.online
-domain:lemanapro.ru
-domain:lenta.com
-domain:lenta.ru
-domain:lmru.tech
+
+# Магнит
 domain:magnit.ru
-domain:mail.ru
-domain:max.ru
-domain:megafon.ru
+
+# Дикси
+domain:dixy.ru
+
+# Азбука вкуса
+domain:av.ru
+domain:azbukavkusa.ru
+
+# ВкусВилл
+domain:vkusvill.ru
+
+# Ашан
+domain:auchan.ru
+
+# SPAR
+domain:myspar.ru
+
+# Metro
+domain:metro-cc.ru
+
+# Лента
+domain:lenta.com
+domain:lenta.tech
+
+# О'Кей
+domain:okmarket.ru
+
+# Красное&Белое
+domain:krasnoeibeloe.ru
+
+# Достависта
+domain:dostavista.ru
+
+# Додо Пицца
+domain:dodopizza.ru
+domain:dodopizza.com
+domain:dodostatic.net
+
+# Самокат
+domain:samokat.ru
+
+# Купер
+domain:kuper.ru
+domain:sbermarket.ru
+
+# Мегамаркет
 domain:megamarket.ru
-domain:megamarket.tech
-domain:memealerts.com
-domain:mirpayonline.ru
-domain:miya-news.online
-domain:mm.ru
-domain:mnogolososya.ru
-domain:moex.com
-domain:mradx.net
+
+# Петрович
+domain:petrovich.ru
+
+# СДЭК
+domain:cdek.ru
+
+# Детский мир
+domain:detmir.ru
+
+# Вкусно и точка
+domain:vkusnoitochka.ru
+
+# Бургер Кинг
+domain:burgerking.ru
+
+# Rostic's
+domain:rostics.ru
+
+# Авто.ру
+domain:auto.ru
+
+# Билайн
+domain:beeline.ru
+
+# МегаФон
+domain:megafon.ru
+
+# Yota
+domain:yota.ru
+
+# МТС
 domain:mts.ru
-domain:mtsdengi.ru
-domain:mvk.com
-domain:myapelsin.ru
-domain:mycdn.me
-domain:mymts.ru
-domain:naydex.net
-domain:nbki.ru
-domain:netmonet.co
-domain:nspk.ru
-domain:ok.ru
-domain:okcdn.ru
-domain:okko.sport
+domain:mtsbank.ru
+domain:kion.ru
+
+# Ростелеком
+domain:rt.ru
+
+# t2
+domain:t2.ru
+domain:tele2.ru
+
+# Мотив
+domain:motiv.me
+domain:motivtelecom.ru
+
+# СберМобайл
+domain:sbermobile.ru
+
+# Эр-Телеком (Дом.ру)
+domain:dom.ru
+domain:ertelecom.ru
+
+# ВТБ Мобайл
+domain:vtbmobile.ru
+
+# Next Mobile
+domain:nextmobile.ru
+
+# 2ГИС
+domain:2gis.ru
+domain:2gis.com
+
+# Максим
+domain:taximaxim.ru
+
+# РЖД
+domain:rzd.ru
+
+# Гранд Сервис Экспресс
+domain:grandtrain.ru
+
+# Туту
+domain:tutu.ru
+domain:tu-tu.ru
+
+# Деловые линии
+domain:dellin.ru
+
+# Ситидрайв
+domain:citydrive.ru
+
+# Аэрофлот
+domain:aeroflot.ru
+
+# Победа
+domain:flypobeda.ru
+
+# Делимобиль
+domain:delimobil.ru
+
+# БелкаКар
+domain:belkacar.ru
+
+# Whoosh
+domain:whoosh.bike
+
+# Rutube
+domain:rutube.ru
+domain:rtbcdn.ru
+domain:rutubelist.ru
+
+# Okko
 domain:okko.tv
-domain:okolo.app
-domain:oneme.ru
+domain:okko.ru
+
+# Иви
+domain:ivi.ru
+
+# PREMIER
+domain:premier.one
+
+# Wink
+domain:wink.ru
+
+# HeadHunter
+domain:hh.ru
+domain:hhid.ru
+domain:hhcdn.ru
+
+# Добро.рф
+domain:dobro.ru
+domain:xn--90af4abj.xn--p1ai # добро.рф
+
+# Знание
+domain:znanierussia.ru
+
+# ЭРА-ГЛОНАСС
+domain:eraglonass.ru
+
+# HRlink
+domain:hr-link.ru
+
+# КХЛ
+domain:khl.ru
+
+# Честный знак
+domain:crpt.ru
+domain:xn--80ajghhoc2aj1c8b.xn--p1ai # честныйзнак.рф
+
+# Пикабу
+domain:pikabu.ru
+
+# 1С
+domain:1c.ru
+
+# СКБ Контур
+domain:kontur.ru
+
+# Инновационный центр «Сколково»
+domain:sk.ru
+
+# Ozon
 domain:ozon.ru
+domain:ozon.com
 domain:ozone.ru
 domain:ozonusercontent.com
-domain:perekrestok.ru
-domain:pochta.ru
-domain:psbank.ru
-domain:psblog.ru
-domain:qms.ru
-domain:rambler.ru
-domain:rbc.ru
-domain:res-nsdi.ru
-domain:rostaxi.org
-domain:rostelecom.ru
-domain:rshb.ru
-domain:rt.ru
-domain:rtbcdn.ru
-domain:russiacalling.com
-domain:rutube.ru
-domain:rutubelist.ru
-domain:rzd-bonus.ru
-domain:rzd.ru
-domain:sbermarket.ru
-domain:sbermegamarket.ru
-domain:sbpgpb.ru
-domain:sistema-capital.com
-domain:spvb.ru
-domain:static-storage.net
-domain:svoy.academy
-domain:t2.ru
-domain:tamtam.chat
-domain:taximaxim.ru
-domain:taxsee.com
-domain:tbank-online.com
-domain:tele2.ru
-domain:timeweb.cloud
-domain:timeweb.com
-domain:tips.tips
-domain:tnt-online.ru
-domain:tochka-tech.com
-domain:tochka.com
-domain:topdelivery.ru
-domain:trbcdn.net
-domain:tsx.x5static.net
-domain:tu-tu.ru
-domain:turbopages.org
-domain:tutu.ru
-domain:usedesk.ru
-domain:userapi.com
-domain:uxfeedback.ru
-domain:vgtrk.ru
-domain:victoria-group.ru
-domain:vk-analytics.ru
-domain:vk-apps.com
-domain:vk-apps.ru
-domain:vk-cdn.me
-domain:vk-cdn.net
-domain:vk-portal.net
-domain:vk.cc
+
+# Вконтакте
 domain:vk.com
-domain:vk.company
-domain:vk.design
-domain:vk.link
-domain:vk.me
 domain:vk.ru
-domain:vk.team
-domain:vkcache.com
-domain:vkcloud-static.ru
-domain:vkgo.app
-domain:vklive.app
-domain:vkmessenger.app
-domain:vkmessenger.com
-domain:vkontakte.ru
-domain:vkuser.net
-domain:vkuseraudio.com
+domain:vk.me
+domain:vk.cc
+domain:userapi.com
 domain:vkuseraudio.net
 domain:vkuseraudio.ru
-domain:vkusercdn.ru
-domain:vkuserlive.net
 domain:vkuserphoto.ru
-domain:vkuservideo.com
-domain:vkuservideo.net
-domain:vkuservideo.ru
-domain:vkusnoitochka.ru
-domain:vkusvill.ru
 domain:vkvideo.ru
-domain:vtb-grants.fut.ru
-domain:vtb-liga.fut.ru
-domain:vtb-russia.com
-domain:vtb.bank.in
-domain:vtb.com
-domain:vtb.corp.ru
-domain:vtb.digital
-domain:vtb.fut.ru
-domain:vtb.promo
-domain:vtb.ru
-domain:vtb24.com
-domain:vtb24.ru
-domain:vtbcareer.com
-domain:vtbfamily.ru
-domain:vtbindia.com
-domain:vtbkep.site
-domain:vtbpartners.com
-domain:vtbrussia.com
-domain:vtbrussia.ru
-domain:vtbstrana.ru
-domain:wb.ru
-domain:webvisor.com
-domain:webvisor.org
-domain:whoosh.bike
-domain:wildberries.ru
-domain:windsurf.com
-domain:wink.ru
-domain:x5.ru
-domain:x5.tech
-domain:x5club.ru
-domain:x5id.ru
-domain:x5l.ru
-domain:x5paket.ru
-domain:x5q.ru
-domain:xn----7sb7akeedqd.xn--p1ai
-domain:xn--80aacoonefzg3am8b1fsb.xn--p1ai
-domain:xn--90ab2c.xn--p1ai
-domain:xn--90aifd0aza.site
-domain:xn--b1aew.xn--p1ai
-domain:xn--d1acpjx3f.xn--p1ai
-domain:ya.ru
-domain:yads.tech
-domain:yandex
-domain:yandex-bank.net
-domain:yandex-images.clstorage.net
-domain:yandex-team.ru
-domain:yandex.aero
-domain:yandex.az
-domain:yandex.by
-domain:yandex.cloud
-domain:yandex.co.il
-domain:yandex.com
-domain:yandex.com.am
-domain:yandex.com.ge
-domain:yandex.com.ru
-domain:yandex.com.tr
-domain:yandex.com.ua
-domain:yandex.de
-domain:yandex.ee
-domain:yandex.eu
-domain:yandex.fi
-domain:yandex.fr
-domain:yandex.jobs
-domain:yandex.kg
-domain:yandex.kz
-domain:yandex.lt
-domain:yandex.lv
-domain:yandex.md
-domain:yandex.net
-domain:yandex.org
-domain:yandex.pl
-domain:yandex.ru
-domain:yandex.st
-domain:yandex.sx
-domain:yandex.tj
-domain:yandex.tm
-domain:yandex.tr
-domain:yandex.ua
-domain:yandex.uz
-domain:yandexadexchange.net
-domain:yandexcloud.net
-domain:yandexcom.net
-domain:yandexmetrica.com
-domain:yandexwebcache.net
-domain:yandexwebcache.org
-domain:yastat.net
-domain:yastatic-net.ru
-domain:yastatic.net
-domain:yota.ru
-domain:youla-web-static.mrgcdn.ru
-domain:youla.io
-domain:youla.ru
-domain:zentotem.net
+domain:vk-analytics.ru
+domain:vk-portal.net
+domain:vk-cdn.net
+domain:vkuser.net
 
-# Other New
-hematonix.ru
-medtrum.ru
-medtrum.eu
-anytimeru.com
-lumiflex.ru
-ican-sinocare.ru
-freestylediabetes.ru
-rsscenter.cloud
-dbankcloud.ru
+# RuStore
+domain:rustore.ru
+
+# Дзен
+domain:dzen.ru
+domain:dzeninfra.ru
+
+# Одноклассники
+domain:ok.ru
+domain:okcdn.ru
+domain:mycdn.me
+
+# Max
+domain:max.ru
+domain:oneme.ru
+
+# Mail.ru
+domain:mail.ru
+
+# Wildberries
+domain:wildberries.ru
+domain:wildberries.com
+domain:wb.ru
+domain:wbbasket.ru
+domain:geobasket.ru
+domain:wbstatic.net
+domain:wbwh.tech
+
+# X5 Group
+domain:x5.ru
+domain:x5media.ru
+domain:x5static.net
+domain:x5id.ru
+domain:x5club.ru
+
+# Пятёрочка
+domain:5ka.ru
+
+# Перекрёсток
+domain:perekrestok.ru
+
+# Впрок
+domain:vprok.ru
+
+# Чижик
+domain:chizhik.club
+
+# Яндекс
+domain:yandex
+domain:ya.ru
+domain:yandex.ru
+domain:yandex.net
+domain:yandex.com
+domain:yastatic.net
+domain:yandexcloud.net
+domain:yandexadexchange.net
+
+# Кинопоиск
+domain:kinopoisk.ru
+
+# Разное
+domain:sochisirius.ru
+domain:lemanapro.ru
+domain:47news.ru
+domain:lizaalert.org
+domain:sirius.online
+domain:evotor.ru

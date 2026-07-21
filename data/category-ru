@@ -1,15 +1,3 @@
-# Direct for checkers
-
-domain:ipify.org
-domain:checkip.amazonaws.com
-domain:ifconfig.me
-
-domain:ipapi.is
-domain:iplocate.io
-domain:ip.sb
-
-domain:2ip.ru
-
 # custom ru only
 
 domain:mangalib.me
@@ -20,6 +8,18 @@ domain:tilda.cc
 domain:kinescope.io
 domain:kinescopecdn.net
 domain:redheadsound.studio
+domain:autowp.ru
+domain:appstorrent.ru
+domain:lava.ru
+domain:zr.ru
+domain:happ.su
+domain:happ.info
+domain:aliexpress.ru
+domain:rdp-onedash.ru
+domain:aviasales.ru
+domain:aviasales.com
+domain:usmall.ru
+domain:mangabuff.ru
 
 # VTB
 
