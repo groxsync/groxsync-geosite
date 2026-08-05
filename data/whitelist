@@ -1,8 +1,10 @@
 # Правительство России
+domain:cikrf.ru
 domain:government.ru
 domain:kremlin.ru
 
 # Госуслуги
+domain:gu-st.ru
 domain:gosuslugi.ru
 domain:gov.ru
 domain:mos.ru
@@ -19,6 +21,9 @@ domain:nalog.ru
 domain:pochta.ru
 
 # Национальная система платёжных карт
+domain:mironline.ru
+domain:mirconnect.ru
+domain:cbrpay.ru
 domain:nspk.ru
 domain:nspk.com
 
@@ -26,6 +31,7 @@ domain:nspk.com
 domain:cbr.ru
 
 # Альфа-Банк
+domain:netmonet.co
 domain:alfabank.ru
 
 # ВТБ
@@ -160,6 +166,7 @@ domain:nspk.ru
 domain:nspk.com
 
 # Альфа-Банк
+domain:netmonet.co
 domain:alfabank.ru
 
 # ВТБ
@@ -211,6 +218,7 @@ domain:krasnoeibeloe.ru
 domain:dostavista.ru
 
 # Додо Пицца
+domain:dodois.io
 domain:dodopizza.ru
 domain:dodopizza.com
 domain:dodostatic.net
@@ -256,6 +264,10 @@ domain:megafon.ru
 domain:yota.ru
 
 # МТС
+domain:mts-link.ru
+domain:mymts.ru
+domain:ticketland.ru
+domain:urent.ru
 domain:mts.ru
 domain:mtsbank.ru
 domain:kion.ru
@@ -285,6 +297,7 @@ domain:vtbmobile.ru
 domain:nextmobile.ru
 
 # 2ГИС
+domain:otello.ru
 domain:2gis.ru
 domain:2gis.com
 
@@ -341,6 +354,8 @@ domain:premier.one
 domain:wink.ru
 
 # HeadHunter
+domain:setka.ru
+domain:set.ki
 domain:hh.ru
 domain:hhid.ru
 domain:hhcdn.ru
@@ -384,6 +399,7 @@ domain:ozone.ru
 domain:ozonusercontent.com
 
 # Вконтакте
+domain:cdn-vk.ru
 domain:vk.com
 domain:vk.ru
 domain:vk.me
@@ -418,6 +434,8 @@ domain:oneme.ru
 domain:mail.ru
 
 # Wildberries
+domain:paywb.com
+domain:wibes.ru
 domain:wildberries.ru
 domain:wildberries.com
 domain:wb.ru
@@ -427,6 +445,7 @@ domain:wbstatic.net
 domain:wbwh.tech
 
 # X5 Group
+domain:myapelsin.ru
 domain:x5.ru
 domain:x5media.ru
 domain:x5static.net
@@ -446,6 +465,13 @@ domain:vprok.ru
 domain:chizhik.club
 
 # Яндекс
+domain:yandex.fi
+domain:yccdn.ru
+domain:clck.ru
+domain:naydex.net
+domain:yndx.net
+domain:yandex-net.ru
+domain:fasten.ru
 domain:yandex
 domain:ya.ru
 domain:yandex.ru
@@ -458,6 +484,91 @@ domain:yandexadexchange.net
 # Кинопоиск
 domain:kinopoisk.ru
 
+# Банки.ру
+domain:banki.ru
+
+# Кредистория
+domain:credistory.ru
+
+# ЮMoney
+full:yoomoney.ru
+domain:static.yoomoney.ru
+
+# СберБанк
+domain:cdn.sberbank.ru
+domain:mpsbol.ant.sberbank.ru
+domain:ddp-mobile.online.sberbank.ru
+
+# Т-Банк
+domain:t-static.ru
+domain:cdn-tinkoff.ru
+domain:cdn.t-bank-app.ru
+domain:acdn.t-bank-app.ru
+domain:certs.t-bank-app.ru
+domain:certs.t-bank-app.su
+
+# ПроДокторов
+domain:prodoctorov.ru
+
+# Юла
+domain:youla.ru
+domain:youla.io
+
+# Fix Price
+domain:fix-price.com
+
+# М.Видео
+domain:mvideo.ru
+
+# Sokolov
+domain:sokolov.ru
+
+# Lamoda
+domain:lamoda.ru
+domain:lmcdn.ru
+
+# Циан
+domain:images.cdn-cian.ru
+
+# S7
+domain:s7.ru
+domain:s7cdn.online
+
+# TaxSee
+domain:taxsee.com
+domain:taxsee.ru
+domain:taxsee.pro
+
+# Едем.рф
+domain:xn--d1abb2a.xn--p1ai
+
+# Парковки Санкт-Петербурга
+domain:parking.spb.ru
+domain:crrpay.ru
+
+# EnerGO
+domain:energo.app
+
+# Дневник.ру
+domain:dnevnik.ru
+
+# Gismeteo
+full:gismeteo.ru
+full:www.gismeteo.ru
+domain:gismeteo.st
+
+# Движение первых
+domain:xn--90acagbhgpca7c8c7f.xn--p1ai
+domain:pervye.ru
+
+# Суточно.ру
+domain:sutochno.ru
+
+# CDNvideo
+domain:trbcdn.net
+domain:selcdn.net
+domain:twcstorage.ru
+
 # Разное
 domain:sochisirius.ru
 domain:lemanapro.ru
@@ -465,3 +576,4 @@ domain:47news.ru
 domain:lizaalert.org
 domain:sirius.online
 domain:evotor.ru
+
