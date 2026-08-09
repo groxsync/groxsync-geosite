@@ -43,6 +43,12 @@ domain:psbank.ru
 # Газпромбанк
 domain:gazprombank.ru
 
+# ОТП Банк
+domain:otpbank.ru
+
+# Модульбанк
+domain:modulbank.ru
+
 # Московская биржа
 domain:moex.com
 
@@ -161,23 +167,6 @@ domain:apteka.ru
 # Еаптека
 domain:eapteka.ru
 
-# Национальная система платежных карт
-domain:nspk.ru
-domain:nspk.com
-
-# Альфа-Банк
-domain:netmonet.co
-domain:alfabank.ru
-
-# ВТБ
-domain:vtb.ru
-
-# ПСБ
-domain:psbank.ru
-
-# Газпромбанк
-domain:gazprombank.ru
-
 # Авито
 domain:avito.ru
 domain:avito.st
@@ -239,6 +228,15 @@ domain:petrovich.ru
 # СДЭК
 domain:cdek.ru
 
+# KazanExpress
+domain:kazanexpress.ru
+
+# Магнит Маркет
+domain:mm.ru
+
+# Boxberry
+domain:boxberry.ru
+
 # Детский мир
 domain:detmir.ru
 
@@ -247,6 +245,7 @@ domain:vkusnoitochka.ru
 
 # Бургер Кинг
 domain:burgerking.ru
+domain:burgerkingrus.ru
 
 # Rostic's
 domain:rostics.ru
@@ -303,6 +302,9 @@ domain:2gis.com
 
 # Максим
 domain:taximaxim.ru
+
+# Таксометр
+domain:rostaxi.org
 
 # РЖД
 domain:rzd.ru
@@ -400,6 +402,7 @@ domain:ozonusercontent.com
 
 # Вконтакте
 domain:cdn-vk.ru
+domain:cdn-vk.net
 domain:vk.com
 domain:vk.ru
 domain:vk.me
@@ -413,6 +416,7 @@ domain:vk-analytics.ru
 domain:vk-portal.net
 domain:vk-cdn.net
 domain:vkuser.net
+domain:imgsmail.ru
 
 # RuStore
 domain:rustore.ru
@@ -480,6 +484,7 @@ domain:yandex.com
 domain:yastatic.net
 domain:yandexcloud.net
 domain:yandexadexchange.net
+domain:static-storage.net
 
 # Кинопоиск
 domain:kinopoisk.ru
@@ -491,7 +496,7 @@ domain:banki.ru
 domain:credistory.ru
 
 # ЮMoney
-full:yoomoney.ru
+domain:yoomoney.ru
 domain:static.yoomoney.ru
 
 # СберБанк
@@ -506,6 +511,9 @@ domain:cdn.t-bank-app.ru
 domain:acdn.t-bank-app.ru
 domain:certs.t-bank-app.ru
 domain:certs.t-bank-app.su
+domain:sso-forms-prod.t-static.ru
+domain:fingerprint.t-static.ru
+domain:mf-platform-production.t-static.ru
 
 # ПроДокторов
 domain:prodoctorov.ru
@@ -527,8 +535,34 @@ domain:sokolov.ru
 domain:lamoda.ru
 domain:lmcdn.ru
 
+# ЦУМ
+domain:tsum.com
+domain:tsum.ru
+
+# Лэтуаль
+domain:letu.ru
+domain:www.letu.ru
+domain:i.letu.ru
+
 # Циан
 domain:images.cdn-cian.ru
+
+# Золотое Яблоко
+domain:goldapple.ru
+domain:vcdn.goldapple.ru
+domain:mcdn.goldapple.ru
+
+# Sunlight
+domain:g0.sunlight.net
+domain:g1.sunlight.net
+domain:g2.sunlight.net
+domain:g3.sunlight.net
+domain:g4.sunlight.net
+domain:g5.sunlight.net
+domain:g6.sunlight.net
+domain:g7.sunlight.net
+domain:g8.sunlight.net
+domain:g9.sunlight.net
 
 # S7
 domain:s7.ru
@@ -553,16 +587,28 @@ domain:energo.app
 domain:dnevnik.ru
 
 # Gismeteo
-full:gismeteo.ru
-full:www.gismeteo.ru
+domain:gismeteo.ru
+domain:www.gismeteo.ru
 domain:gismeteo.st
 
 # Движение первых
 domain:xn--90acagbhgpca7c8c7f.xn--p1ai
 domain:pervye.ru
 
+# Вебиум
+domain:webium.ru
+
+# Фоксфорд
+domain:foxford.ru
+
 # Суточно.ру
 domain:sutochno.ru
+
+# Timeweb
+domain:timeweb.cloud
+
+# Звук
+domain:zvuk.com
 
 # CDNvideo
 domain:trbcdn.net
@@ -576,4 +622,3 @@ domain:47news.ru
 domain:lizaalert.org
 domain:sirius.online
 domain:evotor.ru
-

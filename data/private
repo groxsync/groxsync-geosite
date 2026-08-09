@@ -181,3 +181,8 @@ zte.home
 # Tailscale Magic DNS
 # Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
 ts.net
+
+# Additional private network domains
+intranet
+corp
+private

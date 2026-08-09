@@ -1,5 +1,159 @@
+# Instagram
+domain:graph.instagram.com
+domain:graph-fallback.instagram.com
+
+# Facebook
+domain:xz.fbcdn.net
+domain:xy.fbcdn.net
+
+# WhatsApp
+domain:dit.whatsapp.net
+domain:graph.whatsapp.com
+domain:graph.whatsapp.net
+
+# Google
+domain:app-measurement.com
+domain:app-analytics-services.com
+domain:app-analytics-services-att.com
+domain:google-analytics.com
+domain:mediation.goog
+domain:firebaselogging.googleapis.com
+domain:growth-pa.googleapis.com
+domain:firebaselogging-pa.googleapis.com
+domain:crashlyticsreports-pa.googleapis.com
+domain:appsgrowthpromo-pa.googleapis.com
+domain:federatedcompute-pa.googleapis.com
+domain:firebase-settings.crashlytics.com
+domain:pagead2.googlesyndication.com
+domain:gvt2.com
+domain:beacons.gvt3.com
+domain:beacons2.gvt3.com
+domain:beacons3.gvt3.com
+domain:beacons4.gvt3.com
+domain:beacons5.gvt3.com
+domain:googleads.g.doubleclick.net
+
+# Apple
+domain:metrics.icloud.com
+domain:iadsdk.apple.com
+
+# Microsoft
+domain:mobile.pipe.aria.microsoft.com
+
+# GitHub
+domain:collector.github.com
+
+# Twitch
+domain:spade.twitch.tv
+domain:edge.ads.twitch.tv
+
+# Pinterest
+domain:trk.pinterest.com
+
+# TikTok (ByteDance)
+domain:analytics.us.tiktok.com
+domain:rtlog-ru.tiktokv.com
+domain:mon.tiktokv.com
+domain:mon-sg.tiktokv.com
+domain:mon-ru.tiktokv.com
+domain:mon-boot.tiktokv.com
+domain:mon16-normal-alisg.tiktokv.com
+domain:api16-access-ttp.tiktokpangle.us
+domain:api16-access-ttp.tiktokpangle-b.us
+domain:api16-access-ttp-b.tiktokpangle.us
+domain:log16-platform-ycru.tiktokv.com
+domain:log16-normal-useast5.tiktokv.us
+domain:log16-normal-useast8.tiktokv.us
+domain:log16-normal-alisg.tiktokv.com
+domain:log22-normal-alisg.tiktokv.com
+domain:tnc-boot.tiktokv.com
+domain:tnc0-normal-alisg.tiktokv.com
+domain:tnc16-normal-ycru.tiktokv.com
+domain:tnc16-normal-useast8.tiktokv.us
+domain:tnc19-normal-useast5.tiktokv.us
+domain:mssdk-ru.tiktokv.com
+
+# CapCut (ByteDance)
+domain:mon-v2-boot.capcutapi.com
+domain:tnc-sg.capcutapi.com
+domain:tnc-v2-boot.capcutapi.com
+domain:log32-normal-sg.capcutapi.com
+
+# Pangle (ByteDance)
+domain:pangle.io
+
+# Volcengine (ByteDance)
+domain:gator.volces.com
+domain:apmplus.volces.com
+domain:tab.volces.com
+
+# Xiaomi
+domain:tracking.intl.miui.com
+domain:tracking.rus.miui.com
+domain:ad.intl.xiaomi.com
+domain:sdkconfig.ad.intl.xiaomi.com
+domain:sdkconfig.ad.rus.xiaomi.com
+domain:cdn-exp-sg-recommend.pt.xiaomi.com
+domain:findapi.micloud.xiaomi.net
+
+# Oppo / Realme / OnePlus
+domain:cota-service-sg.allawnos.com
+
+# Яндекс
+domain:mc.yandex.ru
+domain:amc.yandex.ru
+domain:log.strm.yandex.ru
+domain:appmetrica.yandex.net
+domain:csp.yandex.net
+domain:startup.mobile.yandex.net
+domain:startup-mobile.ap.yandex-net.ru
+domain:yandexadexchange.net
+
+# VK / Mail.ru
+domain:ads.vk.com
+domain:vk-analytics.ru
+domain:stats.vk-portal.net
+domain:ms.vk.ru
+domain:stats.rustore.ru
+domain:trace-flow.ru
+domain:mradx.net
 domain:ad.mail.ru
 domain:alt-ad.mail.ru
+domain:xray.mail.ru
+
+# Mediascope
+domain:tns-counter.ru
+
+# Сбер
+domain:crash.ant.sberbank.ru
+
+# Т-Банк
+domain:sage-collector.tbank.ru
+
+# LiveInternet
+domain:yadro.ru
+
+# Wildberries
 domain:a.wb.ru
-domain:a.mts.ru
-domain:obs.mts.ru
+
+# Авито
+domain:stats.avito.ru
+
+# X5
+domain:ads.x5media.ru
+
+# AdRiver
+domain:adriver.ru
+
+# AppsFlyer
+domain:appsflyersdk.com
+
+# AppLovin
+domain:applovin.com
+domain:applvn.com
+
+# AppTracer
+domain:apptracer.ru
+
+# BIGO
+domain:bstream.kzhi.tech
