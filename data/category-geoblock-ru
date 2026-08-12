@@ -1016,7 +1016,6 @@ domain:zetalliance.org
 domain:zf.com
 domain:zoosk.com
 
-
 # Социальные сети и мессенджеры
 domain:api.githubcopilot.com
 domain:api.home-connect.com
@@ -1415,4 +1414,32 @@ domain:www.wunderground.com
 domain:youtu.be
 domain:zetflix.online
 domain:znanija.com
+
+# Дополнительные заблокированные домены
+domain:ab.chatgpt.com
+domain:account.jetbrains.com
+domain:accounts.spotify.com
+domain:api.app.prod.grazie.aws.intellij.net
+domain:api.openai.com
+domain:arc.intel.com
+domain:auth.openai.com
+domain:auth0.openai.com
+domain:chat.openai.com
+domain:cloud.mongodb.com
+domain:deepl.com
+domain:docs.redis.com
+domain:download.jetbrains.com
+domain:image.tmdb.org
+domain:intel.com
+domain:ios.chat.openai.com
+domain:m.strava.com
+domain:netflix.com
+domain:notion.com
+domain:open.spotify.com
+domain:openrouter.ai
+domain:plugins.jetbrains.com
+domain:tcr9i.chat.openai.com
+domain:tiktok.com
+domain:www.intel.com
+domain:www.support.xerox.com
 

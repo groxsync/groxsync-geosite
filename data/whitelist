@@ -1,4 +1,4 @@
-# Правительство России
+﻿# Правительство России
 domain:cikrf.ru
 domain:government.ru
 domain:kremlin.ru
@@ -19,6 +19,9 @@ domain:nalog.ru
 
 # Почта России
 domain:pochta.ru
+domain:www.pochta.ru
+domain:static.pochta.ru
+domain:chat-ct.pochta.ru
 
 # Национальная система платёжных карт
 domain:mironline.ru
@@ -36,6 +39,10 @@ domain:alfabank.ru
 
 # ВТБ
 domain:vtb.ru
+domain:xn--90ab2c.xn--p1ai # втб.рф
+domain:online.sbpvtb.ru
+domain:s2.sbpvtb.ru
+domain:chat3.sbpvtb.ru
 
 # ПСБ
 domain:psbank.ru
@@ -211,9 +218,24 @@ domain:dodois.io
 domain:dodopizza.ru
 domain:dodopizza.com
 domain:dodostatic.net
+domain:cdn.dodostatic.net
+domain:media.dodostatic.net
+domain:frontlogger.dodois.io
+domain:mapi.dodois.io
+domain:esapi.dodois.io
+domain:dodopizza.threads.im
+domain:mapi.dodois.ru
+domain:globalapi.dodopizza.com
 
 # Самокат
 domain:samokat.ru
+domain:api.samokat.ru
+domain:core-colibri-api.samokat.ru
+domain:web-static.samokat.ru
+domain:health.samokat.ru
+domain:sting.samokat.ru
+domain:error-tracking.samokat.ru
+domain:code-push-api.samokat.ru
 
 # Купер
 domain:kuper.ru
@@ -361,6 +383,11 @@ domain:set.ki
 domain:hh.ru
 domain:hhid.ru
 domain:hhcdn.ru
+domain:img.hhcdn.ru
+domain:api.setka.ru
+domain:ff.setka.ru
+domain:cdn-assets.setka.ru
+domain:unleash.internal.setka.work
 
 # Добро.рф
 domain:dobro.ru
@@ -387,6 +414,7 @@ domain:pikabu.ru
 
 # 1С
 domain:1c.ru
+domain:bitrix.info
 
 # СКБ Контур
 domain:kontur.ru
@@ -530,10 +558,13 @@ domain:mvideo.ru
 
 # Sokolov
 domain:sokolov.ru
+domain:static-catalog.sokolov.ru
 
 # Lamoda
 domain:lamoda.ru
 domain:lmcdn.ru
+domain:a.lmcdn.ru
+domain:www.lamoda.ru
 
 # ЦУМ
 domain:tsum.com
@@ -546,6 +577,7 @@ domain:i.letu.ru
 
 # Циан
 domain:images.cdn-cian.ru
+domain:static.cdn-cian.ru
 
 # Золотое Яблоко
 domain:goldapple.ru
@@ -563,6 +595,11 @@ domain:g6.sunlight.net
 domain:g7.sunlight.net
 domain:g8.sunlight.net
 domain:g9.sunlight.net
+
+# DNS
+domain:dns-shop.ru
+domain:www.dns-shop.ru
+domain:c.dns-shop.ru
 
 # S7
 domain:s7.ru
@@ -582,6 +619,7 @@ domain:crrpay.ru
 
 # EnerGO
 domain:energo.app
+domain:mobile-api.energo.app
 
 # Дневник.ру
 domain:dnevnik.ru
@@ -590,6 +628,7 @@ domain:dnevnik.ru
 domain:gismeteo.ru
 domain:www.gismeteo.ru
 domain:gismeteo.st
+domain:st.gismeteo.st
 
 # Движение первых
 domain:xn--90acagbhgpca7c8c7f.xn--p1ai
@@ -607,6 +646,12 @@ domain:sutochno.ru
 # Timeweb
 domain:timeweb.cloud
 
+# Газпром ИД
+domain:gid.ru
+domain:auth.gid.ru
+domain:app.gid.ru
+domain:static-sso.gid.ru
+
 # Звук
 domain:zvuk.com
 
@@ -614,6 +659,11 @@ domain:zvuk.com
 domain:trbcdn.net
 domain:selcdn.net
 domain:twcstorage.ru
+
+# UX Feedback (частично)
+domain:uxfeedback.ru
+domain:cdn.uxfeedback.ru
+domain:cdn3.uxfeedback.ru
 
 # Разное
 domain:sochisirius.ru
