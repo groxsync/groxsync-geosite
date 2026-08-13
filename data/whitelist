@@ -4,11 +4,16 @@ domain:government.ru
 domain:kremlin.ru
 
 # Госуслуги
-domain:gu-st.ru
 domain:gosuslugi.ru
 domain:gov.ru
 domain:mos.ru
 domain:ebs.ru
+domain:elections.gosuslugi.ru
+domain:esia.gosuslugi.ru
+domain:lk.gosuslugi.ru
+domain:max.gosuslugi.ru
+domain:sfd.gosuslugi.ru
+domain:www.gosuslugi.ru
 
 # МВД
 domain:xn--b1aew.xn--p1ai # мвд.рф
@@ -36,6 +41,7 @@ domain:cbr.ru
 # Альфа-Банк
 domain:netmonet.co
 domain:alfabank.ru
+domain:www.alfabank.ru
 
 # ВТБ
 domain:vtb.ru
@@ -52,6 +58,8 @@ domain:gazprombank.ru
 
 # ОТП Банк
 domain:otpbank.ru
+domain:dc.otpbank.ru
+domain:www.otpbank.ru
 
 # Модульбанк
 domain:modulbank.ru
@@ -176,7 +184,20 @@ domain:eapteka.ru
 
 # Авито
 domain:avito.ru
-domain:avito.st
+domain:app.avito.ru
+domain:static.avito.ru
+domain:www.avito.ru
+domain:00.img.avito.st
+domain:10.img.avito.st
+domain:20.img.avito.st
+domain:30.img.avito.st
+domain:40.img.avito.st
+domain:50.img.avito.st
+domain:60.img.avito.st
+domain:70.img.avito.st
+domain:80.img.avito.st
+domain:90.img.avito.st
+domain:www.avito.st
 
 # Магнит
 domain:magnit.ru
@@ -212,6 +233,7 @@ domain:krasnoeibeloe.ru
 
 # Достависта
 domain:dostavista.ru
+domain:robot.dostavista.ru
 
 # Додо Пицца
 domain:dodois.io
@@ -236,10 +258,13 @@ domain:health.samokat.ru
 domain:sting.samokat.ru
 domain:error-tracking.samokat.ru
 domain:code-push-api.samokat.ru
+domain:damcdn.samokat.ru
 
 # Купер
 domain:kuper.ru
 domain:sbermarket.ru
+domain:imgproxy.kuper.ru
+domain:ssp-gw.kuper.ru
 
 # Мегамаркет
 domain:megamarket.ru
@@ -264,6 +289,7 @@ domain:detmir.ru
 
 # Вкусно и точка
 domain:vkusnoitochka.ru
+domain:ma-prod.cdn.vkusnoitochka.ru
 
 # Бургер Кинг
 domain:burgerking.ru
@@ -337,6 +363,9 @@ domain:grandtrain.ru
 # Туту
 domain:tutu.ru
 domain:tu-tu.ru
+domain:cdn4.tu-tu.ru
+domain:id.tutu.ru
+domain:user-api.tutu.ru
 
 # Деловые линии
 domain:dellin.ru
@@ -478,14 +507,11 @@ domain:wbwh.tech
 
 # X5 Group
 domain:myapelsin.ru
-domain:x5.ru
-domain:x5media.ru
-domain:x5static.net
-domain:x5id.ru
-domain:x5club.ru
+domain:tsx.x5static.net
 
 # Пятёрочка
 domain:5ka.ru
+domain:5d.5ka.ru
 
 # Перекрёсток
 domain:perekrestok.ru
@@ -522,6 +548,8 @@ domain:banki.ru
 
 # Кредистория
 domain:credistory.ru
+domain:cdn.credistory.ru
+domain:esia.credistory.ru
 
 # ЮMoney
 domain:yoomoney.ru
@@ -539,6 +567,7 @@ domain:cdn.t-bank-app.ru
 domain:acdn.t-bank-app.ru
 domain:certs.t-bank-app.ru
 domain:certs.t-bank-app.su
+domain:certs.t-bank-app.ru
 domain:sso-forms-prod.t-static.ru
 domain:fingerprint.t-static.ru
 domain:mf-platform-production.t-static.ru
@@ -664,6 +693,10 @@ domain:twcstorage.ru
 domain:uxfeedback.ru
 domain:cdn.uxfeedback.ru
 domain:cdn3.uxfeedback.ru
+domain:widget.uxfeedback.ru
+
+# Умный дом, Уфанет (новый)
+domain:dom.ufanet.ru
 
 # Разное
 domain:sochisirius.ru
