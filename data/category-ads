@@ -121,6 +121,7 @@ domain:mradx.net
 domain:ad.mail.ru
 domain:alt-ad.mail.ru
 domain:xray.mail.ru
+domain:stacks.vk-portal.net
 
 # Mediascope
 domain:tns-counter.ru
@@ -136,6 +137,10 @@ domain:yadro.ru
 
 # Wildberries
 domain:a.wb.ru
+
+# Rutube
+domain:goya.rutube.ru
+domain:log.rutube.ru
 
 # Авито
 domain:stats.avito.ru
@@ -155,6 +160,9 @@ domain:applvn.com
 
 # AppTracer
 domain:apptracer.ru
+
+# МТС
+domain:a.mts.ru
 
 # BIGO
 domain:bstream.kzhi.tech

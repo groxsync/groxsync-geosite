@@ -30,6 +30,7 @@ domain:chat-ct.pochta.ru
 
 # Национальная система платёжных карт
 domain:mironline.ru
+domain:pay.mironline.ru
 domain:mirconnect.ru
 domain:cbrpay.ru
 domain:nspk.ru
@@ -198,6 +199,8 @@ domain:70.img.avito.st
 domain:80.img.avito.st
 domain:90.img.avito.st
 domain:www.avito.st
+domain:avitostat.avito.com
+domain:m.avito.ru
 
 # Магнит
 domain:magnit.ru
@@ -248,6 +251,7 @@ domain:esapi.dodois.io
 domain:dodopizza.threads.im
 domain:mapi.dodois.ru
 domain:globalapi.dodopizza.com
+domain:pay.dodois.io
 
 # Самокат
 domain:samokat.ru
@@ -286,6 +290,8 @@ domain:boxberry.ru
 
 # Детский мир
 domain:detmir.ru
+domain:www.detmir.ru
+domain:go.detmir.st
 
 # Вкусно и точка
 domain:vkusnoitochka.ru
@@ -294,6 +300,7 @@ domain:ma-prod.cdn.vkusnoitochka.ru
 # Бургер Кинг
 domain:burgerking.ru
 domain:burgerkingrus.ru
+domain:edu.burgerkingrus.ru
 
 # Rostic's
 domain:rostics.ru
@@ -612,6 +619,9 @@ domain:static.cdn-cian.ru
 domain:goldapple.ru
 domain:vcdn.goldapple.ru
 domain:mcdn.goldapple.ru
+domain:api-n.goldapple.ru
+domain:ccdn.goldapple.ru
+domain:pcdn.goldapple.ru
 
 # Sunlight
 domain:g0.sunlight.net
@@ -688,6 +698,7 @@ domain:zvuk.com
 domain:trbcdn.net
 domain:selcdn.net
 domain:twcstorage.ru
+domain:cdn.selectel.ru
 
 # UX Feedback (частично)
 domain:uxfeedback.ru
