@@ -204,6 +204,13 @@ domain:m.avito.ru
 
 # Магнит
 domain:magnit.ru
+domain:event-stream-api.magnit.ru
+domain:fda.middle-api.magnit.ru
+domain:id.magnit.ru
+domain:images-foodtech.magnit.ru
+domain:imgproxy.prod.ya.magnit.ru
+domain:magnit-api-cdn.prod.ya.magnit.ru
+domain:middle-api.magnit.ru
 
 # Дикси
 domain:dixy.ru
@@ -370,6 +377,7 @@ domain:grandtrain.ru
 # Туту
 domain:tutu.ru
 domain:tu-tu.ru
+domain:cdn2.tu-tu.ru
 domain:cdn4.tu-tu.ru
 domain:id.tutu.ru
 domain:user-api.tutu.ru
@@ -403,6 +411,7 @@ domain:rutubelist.ru
 # Okko
 domain:okko.tv
 domain:okko.ru
+domain:okko.sport
 
 # Иви
 domain:ivi.ru
@@ -695,10 +704,6 @@ domain:static-sso.gid.ru
 domain:zvuk.com
 
 # CDNvideo
-domain:trbcdn.net
-domain:selcdn.net
-domain:twcstorage.ru
-domain:cdn.selectel.ru
 
 # UX Feedback (частично)
 domain:uxfeedback.ru
