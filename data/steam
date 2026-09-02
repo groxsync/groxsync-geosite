@@ -5,39 +5,92 @@ domain:steam-api.com
 domain:steam-chat.com
 domain:steamcommunity.com
 domain:steamcontent.com
+domain:steamconnecttest.com
 domain:steamdeck.com
 domain:steamgames.com
 domain:steampowered.com
 domain:steamserver.net
+domain:steamstatic.com
 domain:steamusercontent.com
 domain:underlords.com
+domain:valve.net
 domain:valvesoftware.com
 
+# Dota 2
+domain:dota2.com
 
+# edgecast
 domain:edge.steam-dns.top.comcast.net
+
+# edgesuite
+full:steamcommunity-a.akamaihd.net.edgesuite.net
+
+# 网宿(国际)
 domain:steam.apac.qtlglb.com
 domain:steam.eca.qtlglb.com
 domain:steam.naeu.qtlglb.com
 domain:steam.ru.qtlglb.com
-domain:a4e8s8k3.map2.ssl.hwcdn.net
-domain:f3b7q2p3.ssl.hwcdn.net
+
+# HIGHWINDS
+full:a4e8s8k3.map2.ssl.hwcdn.net
+full:f3b7q2p3.ssl.hwcdn.net
+
+# internode
 domain:steam.cdn.on.net
+
+# orcon
 domain:steam.cdn.orcon.net.nz
 domain:steam.cdn.slingshot.co.nz
+
+# webra
 domain:steam.cdn.webra.ru
-domain:steamcloudsweden.blob.core.windows.net
+
+# Akamai
+full:steambroadcast.akamaized.net
+full:steamcdn-a.akamaihd.net
+full:steamcommunity-a.akamaihd.net
+full:steammobile.akamaized.net
+full:steampipe-kr.akamaized.net
+full:steampipe-partner.akamaized.net
+full:steampipe.akamaized.net
+full:steamstore-a.akamaihd.net
+full:steamusercontent-a.akamaihd.net
+full:steamuserimages-a.akamaihd.net
+full:steamvideo-a.akamaihd.net
+
+# Azure
+full:steamcloudsweden.blob.core.windows.net
+full:steamugcquincy.blob.core.windows.net
+
+# 完美
+domain:csgo.com.cn
 domain:csgo.wmsj.cn
+domain:dota2.com.cn
 domain:dota2.wmsj.cn
 domain:wmsjsteam.com
+
+# Steam更新
 domain:client-update.queniuqe.com
+
+# 新流云
 domain:dl.steam.clngaa.com
+
+# 白山云
 domain:st.dl.bscstorage.net
 domain:st.dl.eccdnx.com
 domain:st.dl.pinyuncloud.com
+
+# 网宿
 domain:steampowered.com.8686c.com
 domain:steamstatic.com.8686c.com
-domain:alibaba.cdn.steampipe.steamcontent.com
-domain:lv.queniujq.cn
-domain:xz.pphimalayanrt.com
+
+# 阿里云
+full:alibaba.cdn.steampipe.steamcontent.com
+full:lv.queniujq.cn
+full:xz.pphimalayanrt.com
+
+# 蒸汽中国
 domain:steamchina.com
+
+# 数云科技
 domain:gstore.val.manlaxy.com

@@ -1,53 +1,367 @@
 ﻿# Правительство России
-domain:cikrf.ru
-domain:government.ru
-domain:kremlin.ru
-
+# government.ru # TODO: check
+# Центральная избирательная комиссия Российской Федерации
+# cikrf.ru # TODO: check
 # Госуслуги
 domain:gosuslugi.ru
+domain:gu-st.ru
+
+# Сервер органов государственной власти России
 domain:gov.ru
+
+# Портал Москвы
 domain:mos.ru
+domain:www.mos.ru
+domain:login.mos.ru
+domain:chat.mos.ru
+domain:static3.mos.ru
+
+# Единая биометрическая система
 domain:ebs.ru
-domain:elections.gosuslugi.ru
-domain:esia.gosuslugi.ru
-domain:lk.gosuslugi.ru
-domain:max.gosuslugi.ru
-domain:sfd.gosuslugi.ru
-domain:www.gosuslugi.ru
 
 # МВД
-domain:xn--b1aew.xn--p1ai # мвд.рф
+domain:xn--b1aew.xn--p1ai
 domain:mvd.ru
 
 # ФНС
 domain:nalog.ru
 
-# Почта России
-domain:pochta.ru
-domain:www.pochta.ru
-domain:static.pochta.ru
-domain:chat-ct.pochta.ru
+# Единая Россия
+domain:er.ru
+domain:cdn.er.ru
+
+# Яблоко
+domain:yabloko.ru
+domain:www.yabloko.ru
+
+# Вконтакте
+domain:vk.com
+domain:vk.ru
+domain:vk.me
+domain:vk.cc
+domain:userapi.com
+domain:vkuseraudio.net
+domain:vkuseraudio.ru
+domain:vkuserphoto.ru
+domain:vkvideo.ru
+domain:vk-portal.net
+domain:vkuser.net
+domain:vk-cdn.net
+domain:cdn-vk.ru
+domain:cdn-vk.net
+domain:imgsmail.ru
+
+# RuStore
+domain:rustore.ru
+
+# Дзен
+domain:dzen.ru
+domain:dzeninfra.ru
+
+# Одноклассники
+domain:ok.ru
+domain:okcdn.ru
+domain:mycdn.me
+
+# Max
+domain:max.ru
+domain:oneme.ru
+
+# Mail.ru
+domain:mail.ru
+
+# Яндекс
+domain:yandex
+domain:ya.ru
+domain:yandex.ru
+domain:yandex.fi
+domain:yandex.net
+domain:yandex.com
+domain:yastatic.net
+domain:yandexcloud.net
+domain:yccdn.ru
+domain:clck.ru
+domain:naydex.net
+domain:yndx.net
+domain:yantp.net
+domain:yandex-net.ru
+domain:yastatic-net.ru
+domain:static-storage.net
+domain:yandex-images.clstorage.net
+domain:smartcaptcha.yandexcloud.net
+
+# Кинопоиск
+domain:kinopoisk.ru
+
+# Fasten
+domain:fasten.ru
+
+# Таксометр
+domain:rostaxi.org
+
+# Wildberries
+domain:wildberries.ru
+domain:wildberries.com
+domain:wb.ru
+domain:wbbasket.ru
+domain:geobasket.ru
+domain:wbstatic.net
+domain:wbwh.tech
+domain:paywb.com
+domain:wibes.ru
+
+# Ozon
+domain:ozon.ru
+domain:ozon.com
+domain:ozone.ru
+domain:ozonusercontent.com
+domain:ozon.tech
+domain:ozonru.me
+
+# X5 Group
+domain:id.x5.ru
+domain:pixel.id.x5.ru
+domain:x5m.x5.ru
+domain:observability.x5.ru
+domain:gw-fl5.x5.ru
+domain:api-omni.x5.ru
+domain:tsx.x5static.net
+domain:5ka-media.x5static.net
+domain:x5m-cdn.x5static.net
+domain:x5m-cdn-stage.x5static.net
+domain:catalog-images.x5static.net
+domain:homepage.5ka.ru
+
+# Апельсин
+domain:myapelsin.ru
+
+# Пятёрочка
+domain:5ka.ru
+domain:5d.5ka.ru
+
+# Перекрёсток
+domain:perekrestok.ru
+domain:www.perekrestok.ru
+
+# Впрок
+domain:vprok.ru
+
+# Чижик
+domain:chizhik.club
+
+# Авито
+domain:avito.ru
+domain:www.avito.ru
+domain:m.avito.ru
+domain:app.avito.ru
+domain:static.avito.ru
+domain:socket.avito.ru
+domain:cs.avito.ru
+domain:sntr.avito.ru
+domain:rt.avito.ru
+domain:www.avito.st
+domain:00.img.avito.st
+domain:10.img.avito.st
+domain:20.img.avito.st
+domain:30.img.avito.st
+domain:40.img.avito.st
+domain:50.img.avito.st
+domain:60.img.avito.st
+domain:70.img.avito.st
+domain:80.img.avito.st
+domain:90.img.avito.st
+domain:avitostat.avito.com
+
+# Юла
+domain:youla.ru
+domain:youla.io
+
+# Магнит
+domain:magnit.ru
+domain:id.magnit.ru
+domain:images-foodtech.magnit.ru
+domain:event-stream-api.magnit.ru
+domain:middle-api.magnit.ru
+domain:fda.middle-api.magnit.ru
+domain:imgproxy.prod.ya.magnit.ru
+domain:magnit-api-cdn.prod.ya.magnit.ru
+
+# Дикси
+domain:dixy.ru
+
+# Азбука вкуса
+domain:av.ru
+domain:azbukavkusa.ru
+
+# ВкусВилл
+domain:vkusvill.ru
+
+# Ашан
+domain:auchan.ru
+
+# SPAR
+domain:myspar.ru
+
+# Metro
+domain:metro-cc.ru
+
+# Лента
+domain:lenta.com
+domain:lenta.tech
+
+# Fix Price
+domain:fix-price.com
+
+# М.Видео
+domain:mvideo.ru
+
+# Sokolov
+domain:sokolov.ru
+domain:static-catalog.sokolov.ru
+
+# О'Кей
+domain:okmarket.ru
+
+# Достависта
+domain:dostavista.ru
+domain:robot.dostavista.ru
+
+# Додо Пицца
+domain:dodopizza.ru
+domain:dodopizza.com
+domain:globalapi.dodopizza.com
+domain:cdn.dodostatic.net
+domain:media.dodostatic.net
+domain:frontlogger.dodois.io
+domain:mapi.dodois.io
+domain:esapi.dodois.io
+domain:pay.dodois.io
+domain:dodopizza.threads.im
+domain:mapi.dodois.ru
+
+# Самокат
+domain:samokat.ru
+domain:api.samokat.ru
+domain:core-colibri-api.samokat.ru
+domain:web-static.samokat.ru
+domain:health.samokat.ru
+domain:sting.samokat.ru
+domain:error-tracking.samokat.ru
+domain:code-push-api.samokat.ru
+domain:damcdn.samokat.ru
+
+# Купер
+domain:kuper.ru
+domain:ssp-gw.kuper.ru
+domain:imgproxy.kuper.ru
+domain:sbermarket.ru
+
+# Мегамаркет
+domain:megamarket.ru
+
+# Петрович
+domain:petrovich.ru
+
+# Детский мир
+domain:detmir.ru
+domain:www.detmir.ru
+domain:go.detmir.st
+
+# Вкусно и точка
+domain:vkusnoitochka.ru
+domain:mobile-api.vkusnoitochka.ru
+domain:ma-prod.cdn.vkusnoitochka.ru
+
+# Бургер Кинг
+domain:burgerkingrus.ru
+domain:edu.burgerkingrus.ru
+domain:orderapp.burgerkingrus.ru
+domain:orderapp-app-static.burgerkingrus.ru
+domain:notifier.burgerkingrus.ru
+
+# Rostic's
+domain:rostics.ru
+domain:api.prod.digital.uni.rest
+domain:grpc.prod.digital.uni.rest
+
+# Авто.ру
+domain:auto.ru
+
+# Lamoda
+domain:lamoda.ru
+domain:www.lamoda.ru
+domain:a.lmcdn.ru
+
+# ЦУМ
+domain:tsum.com
+domain:tsum.ru
+
+# Лэтуаль (частично)
+domain:letu.ru
+domain:www.letu.ru
+domain:i.letu.ru
+
+# Циан (частично)
+domain:images.cdn-cian.ru
+domain:static.cdn-cian.ru
+
+# Золотое Яблоко (частично)
+domain:goldapple.ru
+domain:api-n.goldapple.ru
+domain:ccdn.goldapple.ru
+domain:mcdn.goldapple.ru
+domain:pcdn.goldapple.ru
+domain:vcdn.goldapple.ru
+
+# Sunlight (частично)
+domain:g0.sunlight.net
+domain:g1.sunlight.net
+domain:g2.sunlight.net
+domain:g3.sunlight.net
+domain:g4.sunlight.net
+domain:g5.sunlight.net
+domain:g6.sunlight.net
+domain:g7.sunlight.net
+domain:g8.sunlight.net
+domain:g9.sunlight.net
+
+# DNS
+domain:dns-shop.ru
+domain:www.dns-shop.ru
+domain:c.dns-shop.ru
+domain:mapi.dns-shop.ru
+
+# AliExpress (частично)
+domain:st.aliexpress.ru
 
 # Национальная система платёжных карт
-domain:mironline.ru
-domain:pay.mironline.ru
-domain:mirconnect.ru
-domain:cbrpay.ru
 domain:nspk.ru
-domain:nspk.com
+domain:pay.mironline.ru
 
+# mirconnect.ru
+# nspk.com
+# cbrpay.ru
 # Банк России
 domain:cbr.ru
 
 # Альфа-Банк
-domain:netmonet.co
 domain:alfabank.ru
 domain:www.alfabank.ru
+domain:netmonet.co
 
 # ВТБ
 domain:vtb.ru
-domain:xn--90ab2c.xn--p1ai # втб.рф
+domain:s.vtb.ru
+domain:online.vtb.ru
+domain:chat1.vtb.ru
+domain:android-mb.vtb.ru
+domain:sso-app5.vtb.ru
+domain:esmdtpep.vtb.ru
+domain:async-online4.vtb.ru
+domain:headless-cms5.vtb.ru
+domain:xn--90ab2c.xn--p1ai
 domain:online.sbpvtb.ru
+domain:esmdtpep.sbpvtb.ru
 domain:s2.sbpvtb.ru
 domain:chat3.sbpvtb.ru
 
@@ -59,14 +373,166 @@ domain:gazprombank.ru
 
 # ОТП Банк
 domain:otpbank.ru
-domain:dc.otpbank.ru
 domain:www.otpbank.ru
+domain:dc.otpbank.ru
 
+# Другие поддомены otpbank.ru не в белых списках
 # Модульбанк
 domain:modulbank.ru
 
+# Т-Банк (частично)
+domain:certs.t-bank-app.ru
+
+# ЮMoney (частично)
+domain:yoomoney.ru
+domain:static.yoomoney.ru
+
 # Московская биржа
 domain:moex.com
+
+# Банки.ру
+domain:banki.ru
+
+# Кредистория
+domain:credistory.ru
+domain:esia.credistory.ru
+domain:cdn.credistory.ru
+
+# 2ГИС
+domain:2gis.ru
+domain:2gis.com
+
+# Отелло
+domain:otello.ru
+domain:assets.otello.ru
+
+# Максим
+domain:taximaxim.ru
+
+# РЖД
+domain:rzd.ru
+
+# Гранд Сервис Экспресс
+domain:grandtrain.ru
+
+# Туту
+domain:tutu.ru
+domain:www.tutu.ru
+domain:id.tutu.ru
+domain:user-api.tutu.ru
+domain:hotel.tutu.ru
+domain:frontlog.tutu.ru
+domain:main-page.tutu.ru
+domain:ux.tutu.ru
+domain:chat-widget-iframe.tutu.ru
+domain:cdn1.tu-tu.ru
+domain:cdn2.tu-tu.ru
+domain:cdn4.tu-tu.ru
+
+# Деловые линии
+domain:dellin.ru
+
+# Ситидрайв
+domain:citydrive.ru
+
+# Аэрофлот
+domain:aeroflot.ru
+
+# Победа
+domain:flypobeda.ru
+
+# S7
+domain:s7.ru
+domain:www.s7.ru
+domain:chat.s7.ru
+domain:portal.s7cdn.online
+domain:public.s7cdn.online
+domain:s3-portal.s7cdn.online
+
+# Делимобиль
+domain:delimobil.ru
+
+# TaxSee
+domain:taxsee.ru
+domain:cdn.taxsee.ru
+domain:chat.taxsee.ru
+domain:chatsocket.taxsee.ru
+domain:taxsee.com
+domain:taxsee.pro
+
+# БелкаКар
+domain:belkacar.ru
+
+# Едем.рф
+domain:xn--d1abb2a.xn--p1ai
+
+# Парковки Санкт-Петербурга
+domain:client.crrpay.ru
+domain:parking.spb.ru
+
+# Whoosh
+domain:whoosh.bike
+
+# Билайн
+domain:beeline.ru
+
+# МегаФон
+domain:megafon.ru
+
+# Yota
+domain:yota.ru
+
+# МТС
+domain:mts.ru
+domain:mtsbank.ru
+domain:mts-link.ru
+domain:mymts.ru
+domain:kion.ru
+domain:ticketland.ru
+domain:urent.ru
+
+# Ростелеком
+domain:rt.ru
+
+# t2
+domain:t2.ru
+domain:tele2.ru
+
+# Мотив
+domain:motiv.me
+domain:motivtelecom.ru
+
+# СберМобайл
+domain:sbermobile.ru
+
+# Эр-Телеком (Дом.ру)
+domain:dom.ru
+domain:ertelecom.ru
+
+# ВТБ Мобайл
+domain:vtbmobile.ru
+
+# Next Mobile
+domain:nextmobile.ru
+
+# Rutube
+domain:rutube.ru
+domain:rtbcdn.ru
+
+# rutubelist.ru # TODO: check subdomains
+# Okko
+domain:okko.tv
+domain:okko.ru
+domain:okko.sport
+
+# Иви
+domain:ivi.ru
+
+# PREMIER
+domain:premier.one
+
+# Wink
+domain:wink.ru
 
 # Известия
 domain:iz.ru
@@ -168,6 +634,11 @@ domain:vmeste-rf.tv
 # ВГТРК / Смотрим
 domain:smotrim.ru
 
+# Ура.ру
+domain:ura.ru
+domain:ura.news
+domain:cdn-asset.ura.news
+
 # Медси
 domain:medsi.ru
 
@@ -179,109 +650,40 @@ domain:emias.info
 
 # Аптека.ru
 domain:apteka.ru
+domain:static.apteka.ru
 
 # Еаптека
 domain:eapteka.ru
 
-# Авито
-domain:avito.ru
-domain:app.avito.ru
-domain:static.avito.ru
-domain:www.avito.ru
-domain:00.img.avito.st
-domain:10.img.avito.st
-domain:20.img.avito.st
-domain:30.img.avito.st
-domain:40.img.avito.st
-domain:50.img.avito.st
-domain:60.img.avito.st
-domain:70.img.avito.st
-domain:80.img.avito.st
-domain:90.img.avito.st
-domain:www.avito.st
-domain:avitostat.avito.com
-domain:m.avito.ru
+# ПроДокторов
+domain:prodoctorov.ru
 
-# Магнит
-domain:magnit.ru
-domain:event-stream-api.magnit.ru
-domain:fda.middle-api.magnit.ru
-domain:id.magnit.ru
-domain:images-foodtech.magnit.ru
-domain:imgproxy.prod.ya.magnit.ru
-domain:magnit-api-cdn.prod.ya.magnit.ru
-domain:middle-api.magnit.ru
+# Медточка (частично)
+domain:app.medtochka.ru
+domain:app-mobile.medtochka.ru
+domain:info-mobile.medtochka.ru
+domain:profile-mobile.medtochka.ru
+domain:meet.medtochka.ru
 
-# Дикси
-domain:dixy.ru
+# HeadHunter
+domain:hh.ru
 
-# Азбука вкуса
-domain:av.ru
-domain:azbukavkusa.ru
+# hhid.ru
+domain:hhcdn.ru
+domain:img.hhcdn.ru
+domain:setka.ru
+domain:api.setka.ru
+domain:ff.setka.ru
+domain:cdn-assets.setka.ru
+domain:set.ki
+domain:unleash.internal.setka.work
 
-# ВкусВилл
-domain:vkusvill.ru
-
-# Ашан
-domain:auchan.ru
-
-# SPAR
-domain:myspar.ru
-
-# Metro
-domain:metro-cc.ru
-
-# Лента
-domain:lenta.com
-domain:lenta.tech
-
-# О'Кей
-domain:okmarket.ru
-
-# Красное&Белое
-domain:krasnoeibeloe.ru
-
-# Достависта
-domain:dostavista.ru
-domain:robot.dostavista.ru
-
-# Додо Пицца
-domain:dodois.io
-domain:dodopizza.ru
-domain:dodopizza.com
-domain:dodostatic.net
-domain:cdn.dodostatic.net
-domain:media.dodostatic.net
-domain:frontlogger.dodois.io
-domain:mapi.dodois.io
-domain:esapi.dodois.io
-domain:dodopizza.threads.im
-domain:mapi.dodois.ru
-domain:globalapi.dodopizza.com
-domain:pay.dodois.io
-
-# Самокат
-domain:samokat.ru
-domain:api.samokat.ru
-domain:core-colibri-api.samokat.ru
-domain:web-static.samokat.ru
-domain:health.samokat.ru
-domain:sting.samokat.ru
-domain:error-tracking.samokat.ru
-domain:code-push-api.samokat.ru
-domain:damcdn.samokat.ru
-
-# Купер
-domain:kuper.ru
-domain:sbermarket.ru
-domain:imgproxy.kuper.ru
-domain:ssp-gw.kuper.ru
-
-# Мегамаркет
-domain:megamarket.ru
-
-# Петрович
-domain:petrovich.ru
+# Почта России
+domain:pochta.ru
+domain:www.pochta.ru
+domain:static.pochta.ru
+domain:passport.pochta.ru
+domain:chat-ct.pochta.ru
 
 # СДЭК
 domain:cdek.ru
@@ -295,148 +697,9 @@ domain:mm.ru
 # Boxberry
 domain:boxberry.ru
 
-# Детский мир
-domain:detmir.ru
-domain:www.detmir.ru
-domain:go.detmir.st
-
-# Вкусно и точка
-domain:vkusnoitochka.ru
-domain:ma-prod.cdn.vkusnoitochka.ru
-
-# Бургер Кинг
-domain:burgerking.ru
-domain:burgerkingrus.ru
-domain:edu.burgerkingrus.ru
-
-# Rostic's
-domain:rostics.ru
-
-# Авто.ру
-domain:auto.ru
-
-# Билайн
-domain:beeline.ru
-
-# МегаФон
-domain:megafon.ru
-
-# Yota
-domain:yota.ru
-
-# МТС
-domain:mts-link.ru
-domain:mymts.ru
-domain:ticketland.ru
-domain:urent.ru
-domain:mts.ru
-domain:mtsbank.ru
-domain:kion.ru
-
-# Ростелеком
-domain:rt.ru
-
-# t2
-domain:t2.ru
-domain:tele2.ru
-
-# Мотив
-domain:motiv.me
-domain:motivtelecom.ru
-
-# СберМобайл
-domain:sbermobile.ru
-
-# Эр-Телеком (Дом.ру)
-domain:dom.ru
-domain:ertelecom.ru
-
-# ВТБ Мобайл
-domain:vtbmobile.ru
-
-# Next Mobile
-domain:nextmobile.ru
-
-# 2ГИС
-domain:otello.ru
-domain:2gis.ru
-domain:2gis.com
-
-# Максим
-domain:taximaxim.ru
-
-# Таксометр
-domain:rostaxi.org
-
-# РЖД
-domain:rzd.ru
-
-# Гранд Сервис Экспресс
-domain:grandtrain.ru
-
-# Туту
-domain:tutu.ru
-domain:tu-tu.ru
-domain:cdn2.tu-tu.ru
-domain:cdn4.tu-tu.ru
-domain:id.tutu.ru
-domain:user-api.tutu.ru
-
-# Деловые линии
-domain:dellin.ru
-
-# Ситидрайв
-domain:citydrive.ru
-
-# Аэрофлот
-domain:aeroflot.ru
-
-# Победа
-domain:flypobeda.ru
-
-# Делимобиль
-domain:delimobil.ru
-
-# БелкаКар
-domain:belkacar.ru
-
-# Whoosh
-domain:whoosh.bike
-
-# Rutube
-domain:rutube.ru
-domain:rtbcdn.ru
-domain:rutubelist.ru
-
-# Okko
-domain:okko.tv
-domain:okko.ru
-domain:okko.sport
-
-# Иви
-domain:ivi.ru
-
-# PREMIER
-domain:premier.one
-
-# Wink
-domain:wink.ru
-
-# HeadHunter
-domain:setka.ru
-domain:set.ki
-domain:hh.ru
-domain:hhid.ru
-domain:hhcdn.ru
-domain:img.hhcdn.ru
-domain:api.setka.ru
-domain:ff.setka.ru
-domain:cdn-assets.setka.ru
-domain:unleash.internal.setka.work
-
 # Добро.рф
 domain:dobro.ru
-domain:xn--90af4abj.xn--p1ai # добро.рф
+domain:xn--90af4abj.xn--p1ai
 
 # Знание
 domain:znanierussia.ru
@@ -452,7 +715,7 @@ domain:khl.ru
 
 # Честный знак
 domain:crpt.ru
-domain:xn--80ajghhoc2aj1c8b.xn--p1ai # честныйзнак.рф
+domain:xn--80ajghhoc2aj1c8b.xn--p1ai
 
 # Пикабу
 domain:pikabu.ru
@@ -467,204 +730,6 @@ domain:kontur.ru
 # Инновационный центр «Сколково»
 domain:sk.ru
 
-# Ozon
-domain:ozon.ru
-domain:ozon.com
-domain:ozone.ru
-domain:ozonusercontent.com
-
-# Вконтакте
-domain:cdn-vk.ru
-domain:cdn-vk.net
-domain:vk.com
-domain:vk.ru
-domain:vk.me
-domain:vk.cc
-domain:userapi.com
-domain:vkuseraudio.net
-domain:vkuseraudio.ru
-domain:vkuserphoto.ru
-domain:vkvideo.ru
-domain:vk-analytics.ru
-domain:vk-portal.net
-domain:vk-cdn.net
-domain:vkuser.net
-domain:imgsmail.ru
-
-# RuStore
-domain:rustore.ru
-
-# Дзен
-domain:dzen.ru
-domain:dzeninfra.ru
-
-# Одноклассники
-domain:ok.ru
-domain:okcdn.ru
-domain:mycdn.me
-
-# Max
-domain:max.ru
-domain:oneme.ru
-
-# Mail.ru
-domain:mail.ru
-
-# Wildberries
-domain:paywb.com
-domain:wibes.ru
-domain:wildberries.ru
-domain:wildberries.com
-domain:wb.ru
-domain:wbbasket.ru
-domain:geobasket.ru
-domain:wbstatic.net
-domain:wbwh.tech
-
-# X5 Group
-domain:myapelsin.ru
-domain:tsx.x5static.net
-
-# Пятёрочка
-domain:5ka.ru
-domain:5d.5ka.ru
-
-# Перекрёсток
-domain:perekrestok.ru
-
-# Впрок
-domain:vprok.ru
-
-# Чижик
-domain:chizhik.club
-
-# Яндекс
-domain:yandex.fi
-domain:yccdn.ru
-domain:clck.ru
-domain:naydex.net
-domain:yndx.net
-domain:yandex-net.ru
-domain:fasten.ru
-domain:yandex
-domain:ya.ru
-domain:yandex.ru
-domain:yandex.net
-domain:yandex.com
-domain:yastatic.net
-domain:yandexcloud.net
-domain:yandexadexchange.net
-domain:static-storage.net
-
-# Кинопоиск
-domain:kinopoisk.ru
-
-# Банки.ру
-domain:banki.ru
-
-# Кредистория
-domain:credistory.ru
-domain:cdn.credistory.ru
-domain:esia.credistory.ru
-
-# ЮMoney
-domain:yoomoney.ru
-domain:static.yoomoney.ru
-
-# СберБанк
-domain:cdn.sberbank.ru
-domain:mpsbol.ant.sberbank.ru
-domain:ddp-mobile.online.sberbank.ru
-
-# Т-Банк
-domain:t-static.ru
-domain:cdn-tinkoff.ru
-domain:cdn.t-bank-app.ru
-domain:acdn.t-bank-app.ru
-domain:certs.t-bank-app.ru
-domain:certs.t-bank-app.su
-domain:certs.t-bank-app.ru
-domain:sso-forms-prod.t-static.ru
-domain:fingerprint.t-static.ru
-domain:mf-platform-production.t-static.ru
-
-# ПроДокторов
-domain:prodoctorov.ru
-
-# Юла
-domain:youla.ru
-domain:youla.io
-
-# Fix Price
-domain:fix-price.com
-
-# М.Видео
-domain:mvideo.ru
-
-# Sokolov
-domain:sokolov.ru
-domain:static-catalog.sokolov.ru
-
-# Lamoda
-domain:lamoda.ru
-domain:lmcdn.ru
-domain:a.lmcdn.ru
-domain:www.lamoda.ru
-
-# ЦУМ
-domain:tsum.com
-domain:tsum.ru
-
-# Лэтуаль
-domain:letu.ru
-domain:www.letu.ru
-domain:i.letu.ru
-
-# Циан
-domain:images.cdn-cian.ru
-domain:static.cdn-cian.ru
-
-# Золотое Яблоко
-domain:goldapple.ru
-domain:vcdn.goldapple.ru
-domain:mcdn.goldapple.ru
-domain:api-n.goldapple.ru
-domain:ccdn.goldapple.ru
-domain:pcdn.goldapple.ru
-
-# Sunlight
-domain:g0.sunlight.net
-domain:g1.sunlight.net
-domain:g2.sunlight.net
-domain:g3.sunlight.net
-domain:g4.sunlight.net
-domain:g5.sunlight.net
-domain:g6.sunlight.net
-domain:g7.sunlight.net
-domain:g8.sunlight.net
-domain:g9.sunlight.net
-
-# DNS
-domain:dns-shop.ru
-domain:www.dns-shop.ru
-domain:c.dns-shop.ru
-
-# S7
-domain:s7.ru
-domain:s7cdn.online
-
-# TaxSee
-domain:taxsee.com
-domain:taxsee.ru
-domain:taxsee.pro
-
-# Едем.рф
-domain:xn--d1abb2a.xn--p1ai
-
-# Парковки Санкт-Петербурга
-domain:parking.spb.ru
-domain:crrpay.ru
-
 # EnerGO
 domain:energo.app
 domain:mobile-api.energo.app
@@ -672,10 +737,9 @@ domain:mobile-api.energo.app
 # Дневник.ру
 domain:dnevnik.ru
 
-# Gismeteo
+# Gismeteo (частично)
 domain:gismeteo.ru
 domain:www.gismeteo.ru
-domain:gismeteo.st
 domain:st.gismeteo.st
 
 # Движение первых
@@ -691,8 +755,11 @@ domain:foxford.ru
 # Суточно.ру
 domain:sutochno.ru
 
-# Timeweb
+# Timeweb (частично)
 domain:timeweb.cloud
+
+# Звук
+domain:zvuk.com
 
 # Газпром ИД
 domain:gid.ru
@@ -700,21 +767,62 @@ domain:auth.gid.ru
 domain:app.gid.ru
 domain:static-sso.gid.ru
 
-# Звук
-domain:zvuk.com
-
-# CDNvideo
-
 # UX Feedback (частично)
 domain:uxfeedback.ru
+domain:widget.uxfeedback.ru
 domain:cdn.uxfeedback.ru
 domain:cdn3.uxfeedback.ru
-domain:widget.uxfeedback.ru
 
-# Умный дом, Уфанет (новый)
+# Умный дом, Уфанет
 domain:dom.ufanet.ru
 
-# Разное
+# Kaspersky
+domain:kaspersky.com
+domain:www.kaspersky.com
+domain:my.kaspersky.com
+domain:ds.kaspersky.com
+domain:ksn-ca-geo.kaspersky-labs.com
+domain:ksn-ml-geo.kaspersky-labs.com
+domain:ksn-cinfo-geo.kaspersky-labs.com
+
+# Дополнительные домены из предыдущей версии локального whitelist
+domain:cikrf.ru
+domain:government.ru
+domain:kremlin.ru
+domain:elections.gosuslugi.ru
+domain:esia.gosuslugi.ru
+domain:lk.gosuslugi.ru
+domain:max.gosuslugi.ru
+domain:sfd.gosuslugi.ru
+domain:www.gosuslugi.ru
+domain:mironline.ru
+domain:mirconnect.ru
+domain:cbrpay.ru
+domain:nspk.com
+domain:krasnoeibeloe.ru
+domain:dodois.io
+domain:dodostatic.net
+domain:burgerking.ru
+domain:tu-tu.ru
+domain:rutubelist.ru
+domain:hhid.ru
+domain:vk-analytics.ru
+domain:yandexadexchange.net
+domain:cdn.sberbank.ru
+domain:mpsbol.ant.sberbank.ru
+domain:ddp-mobile.online.sberbank.ru
+domain:t-static.ru
+domain:cdn-tinkoff.ru
+domain:cdn.t-bank-app.ru
+domain:acdn.t-bank-app.ru
+domain:certs.t-bank-app.su
+domain:sso-forms-prod.t-static.ru
+domain:fingerprint.t-static.ru
+domain:mf-platform-production.t-static.ru
+domain:lmcdn.ru
+domain:s7cdn.online
+domain:crrpay.ru
+domain:gismeteo.st
 domain:sochisirius.ru
 domain:lemanapro.ru
 domain:47news.ru
