@@ -1,18 +1,15 @@
 #Origin
-
 domain:dawngate.com
 domain:eastore.com
 domain:lordofultima.com
 domain:origin.com
 domain:origin.tv
-
 domain:cloudsync-prod.s3.amazonaws.com
 domain:origin-a.akamaihd.net
 domain:rtm.tnt-ea.com
 domain:ssl-lvlt.cdn.ea.com
 
 # EA
-
 domain:awayoutgame.com
 domain:battlefront2.com
 domain:battlefrontii.com
@@ -212,6 +209,5 @@ domain:uoherald.com
 
 # XDS
 domain:xdsummit.com
-
 domain:ea.tt.omtrdc.net
 domain:eaassets-a.akamaihd.net

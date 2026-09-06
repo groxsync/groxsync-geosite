@@ -7,7 +7,6 @@ domain:habrastorage.org
 domain:onlinesim.io
 
 # Зарубежные сайты, которые ограничивают функционал для российских IP
-
 # Adobe
 domain:adobe-identity.com
 domain:adobe-services.com
@@ -1020,7 +1019,6 @@ domain:zoosk.com
 domain:api.githubcopilot.com
 domain:api.home-connect.com
 domain:api.twitter.com
-domain:cdninstagram.com
 domain:copilot-proxy.githubusercontent.com
 domain:copilot-telemetry.githubusercontent.com
 domain:deviantart.com
@@ -1033,17 +1031,12 @@ domain:discordapp.org
 domain:discordstatus.com
 domain:dl.discordapp.net
 domain:edge.microsoft.com
-domain:facebook.com
-domain:fb.com
-domain:fbcdn.net
-domain:fbsbx.com
 domain:files.oaiusercontent.com
 domain:fw-download.ubnt.com
 domain:fw-update.ubnt.com
 domain:gateway.discord.gg
 domain:githubcopilot.com
 domain:images.discordapp.net
-domain:instagram.com
 domain:instagram.fhrk1-1.fna.fbcdn.net
 domain:instagram.fkun2-1.fna.fbcdn.net
 domain:instagram.frix7-1.fna.fbcdn.net
@@ -1442,4 +1435,3 @@ domain:tcr9i.chat.openai.com
 domain:tiktok.com
 domain:www.intel.com
 domain:www.support.xerox.com
-

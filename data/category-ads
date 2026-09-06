@@ -1,10 +1,12 @@
 # Instagram
-domain:graph.instagram.com
-domain:graph-fallback.instagram.com
-
 # Facebook
 domain:xz.fbcdn.net
 domain:xy.fbcdn.net
+domain:graph.instagram.com
+domain:graph-fallback.instagram.com
+domain:analytics.facebook.com
+domain:facebookads.com
+domain:pixel.facebook.com
 
 # WhatsApp
 domain:dit.whatsapp.net

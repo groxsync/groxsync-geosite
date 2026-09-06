@@ -3,7 +3,7 @@ domain:npm.community
 domain:npmjs.com
 domain:npmjs.org
 
-# Capilot
+# Copilot
 domain:githubcopilot.com
 full:copilot-proxy.githubusercontent.com
 full:copilot-workspace.githubnext.com

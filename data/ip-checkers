@@ -150,18 +150,14 @@ domain:ipw.cn
 domain:whois.pconline.com.cn
 domain:myip.la
 
-
 # ---- Global IP echo / plain-text IP APIs ----
-
 # ---- Global IP geolocation APIs ----
-
 # ---- Russia-specific IP checkers ----
 domain:ip-ping.ru
 domain:iphub.info
 domain:smart-ip.net
 
 # ---- Cloud provider IP check endpoints ----
-
 # ---- Fingerprint / DNS-leak / anti-detect test sites ----
 domain:amiunique.org
 domain:bot.sannysoft.com
