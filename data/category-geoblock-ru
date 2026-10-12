@@ -309,30 +309,6 @@ domain:sketchup.com
 # Spaceship
 domain:spaceship.com
 
-# Spotify
-domain:byspotify.com
-domain:pscdn.co
-domain:scdn.co
-domain:spoti.fi
-domain:spotify-everywhere.com
-keyword:spotify.com
-domain:spotify.design
-keyword:spotifycdn.com
-keyword:spotifycdn.net
-domain:spotifycharts.com
-domain:spotifycodes.com
-domain:spotifyforbrands.com
-domain:spotifyjobs.com
-domain:spotify.link
-domain:tospotify.com
-domain:audio-ak-spotify-com.akamaized.net
-domain:audio4-ak-spotify-com.akamaized.net
-domain:cdn-spotify-experiments.conductrics.com
-domain:heads-ak-spotify-com.akamaized.net
-domain:heads4-ak-spotify-com.akamaized.net
-domain:spotify.map.fastly.net
-domain:spotify.map.fastlylb.net
-
 # Strava
 keyword:strava.com
 
@@ -350,7 +326,7 @@ domain:onetrust.com
 domain:squareup.com
 keyword:tidal.com
 
-# Tiktok / CapCut / ByteDance
+# CapCut / ByteDance
 keyword:amemv.com
 keyword:bytecdn.cn
 keyword:byted.org
@@ -370,34 +346,11 @@ keyword:ibytedtos.com
 keyword:ibyteimg.com
 keyword:ipstatp.com
 keyword:isnssdk.com
-keyword:muscdn.com
-keyword:musical.ly
 keyword:pstatp.com
 keyword:snssdk.com
-keyword:tiktok-row.net
-keyword:tiktok-row.org
-keyword:tiktok.
-keyword:tiktokcdn-eu.com
-keyword:tiktokcdn-eu.net
-keyword:tiktokcdn-in.com
-keyword:tiktokcdn-us.com
-keyword:tiktokcdn.com
-keyword:tiktokd.net
-keyword:tiktokd.org
-keyword:tiktokeu-cdn.com
-keyword:tiktoklb.eu
-keyword:tiktokpangle-cdn-us.com
-keyword:tiktokrow-cdn.com
-keyword:tiktokv.com
-keyword:tiktokv.eu
-keyword:tiktokv.us
-keyword:tiktokw.eu
-keyword:tiktokw.us
 keyword:tlivecdn.com
-keyword:ttlivecdn.com
 domain:bdurl.net
 domain:bytedanceapi.com
-domain:bytedapm.com
 domain:byteeffecttos-g.com
 domain:bytegecko-i18n.com
 domain:byteigtm.com
@@ -405,32 +358,8 @@ domain:byteintlapi.com
 domain:bytelb.com
 domain:byteoversea.net
 domain:musemuse.cn
-domain:musica.ly
-domain:musically-alternate.app.link
-domain:musically.app.link
-domain:musically.ly
 domain:sgpstatp.com
 domain:sgsnssdk.com
-domain:tik-tokapi.com
-domain:tiktok-minis.com
-domain:tiktokapis.com
-domain:tiktokder.com
-domain:tiktokglobalshop.com
-domain:tiktokglobalshopv.com
-domain:tiktoklinksafety.eu
-domain:tiktokminis.us
-domain:tiktokmusic.app
-domain:tiktokpangle.us
-domain:tiktokshop.com
-domain:tiktokstalk.com
-domain:tiktokstaticb.com
-domain:ttapis.com
-domain:ttdns2.com
-domain:ttdns3.com
-domain:ttoversea.net
-domain:ttoverseaus.net
-domain:ttwebview.com
-domain:ttwstatic.com
 domain:lf16-pkgcdn.pitaya-clientai.com
 domain:lf19-pkgcdn.pitaya-clientai.com
 domain:reqhfg-cdn-settings.appsflyersdk.com
@@ -441,17 +370,9 @@ domain:dv9cjr-cdn-settings.appsflyersdk.com
 domain:dv9cjr-dlsdk.appsflyersdk.com
 domain:dv9cjr-conversions.appsflyersdk.com
 domain:dv9cjr-launches.appsflyersdk.com
-domain:roovza-launches.appsflyersdk.com
-domain:roovza.inapps.appsflyersdk.com
-domain:roovza.launches.appsflyersdk.com
-domain:roovza.skadsdk.appsflyersdk.com
 domain:bytedance.akadns.net
 domain:bytegeo.akadns.net
 domain:bytewlb.akadns.net
-domain:p16-tiktokcdn-com.akamaized.net
-domain:tiktokcdn-com.akamaized.net
-domain:v16-tiktokcdn-com.akamaized.net
-domain:tiktokcdn.liveplay.myqcloud.com
 domain:bytedance.map.fastly.net
 
 # TMDB
@@ -1432,6 +1353,5 @@ domain:open.spotify.com
 domain:openrouter.ai
 domain:plugins.jetbrains.com
 domain:tcr9i.chat.openai.com
-domain:tiktok.com
 domain:www.intel.com
 domain:www.support.xerox.com
