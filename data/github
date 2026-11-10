@@ -7,6 +7,14 @@ domain:npmjs.org
 domain:githubcopilot.com
 full:copilot-proxy.githubusercontent.com
 full:copilot-workspace.githubnext.com
+full:default.exp-tas.com
+full:production-copilot-host-austriaeast.webpubsub.azure.com
+full:production-copilot-host-centralus-02.webpubsub.azure.com
+full:production-copilot-host-centralus.webpubsub.azure.com
+full:production-copilot-host-eastasia.webpubsub.azure.com
+full:production-copilot-host-westus.webpubsub.azure.com
+full:production-copilot-host-westus3.webpubsub.azure.com
+full:production-copilot-host.webpubsub.azure.com
 
 # Azure Blob Storage
 full:copilotprodattachments.blob.core.windows.net

@@ -1,5 +1,7 @@
 # Google Play PCAP
 domain:gvt1.com
+full:dl.google.com
+full:dl-ssl.google.com
 domain:googleplay.com
 domain:play.google.com
 domain:play.googleapis.com
@@ -9,6 +11,7 @@ domain:playstoregatewayadapter-pa.googleapis.com
 domain:play-lh.googleusercontent.com
 domain:connectivitycheck.gstatic.com
 domain:android.clients.google.com
+full:android.apis.google.com
 domain:lh3.googleusercontent.com
 domain:android-safebrowsing.google.com
 domain:voledevice-pa.googleapis.com
